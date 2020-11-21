@@ -1,0 +1,64 @@
+{
+    "values": [
+        {
+            "originalValue": "€",
+            "taxConversion": 0.84,
+            "convertedValue": "$"
+        },
+        {
+            "originalValue": "€",
+            "taxConversion": 1.12,
+            "convertedValue": "£"
+        },
+        {
+            "originalValue": "€",
+            "taxConversion": 0.0081,
+            "convertedValue": "¥"
+        },
+        {
+            "originalValue": "$",
+            "taxConversion": 1.18,
+            "convertedValue": "€"
+        },
+        {
+            "originalValue": "$",
+            "taxConversion": 1.32,
+            "convertedValue": "£"
+        },
+        {
+            "originalValue": "$",
+            "taxConversion": 0.0096,
+            "convertedValue": "¥"
+        },
+        {
+            "originalValue": "£",
+            "taxConversion": 0.89,
+            "convertedValue": "€"
+        },
+        {
+            "originalValue": "£",
+            "taxConversion": 0.75,
+            "convertedValue": "$"
+        },
+        {
+            "originalValue": "£",
+            "taxConversion": 0.0072,
+            "convertedValue": "¥"
+        },
+        {
+            "originalValue": "¥",
+            "taxConversion": 123.13,
+            "convertedValue": "€"
+        },
+        {
+            "originalValue": "¥",
+            "taxConversion": 137.96,
+            "convertedValue": "£"
+        },
+        {
+            "originalValue": "¥",
+            "taxConversion": 103.86,
+            "convertedValue": "$"
+        }
+    ]
+}
